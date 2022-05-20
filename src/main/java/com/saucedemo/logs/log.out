@@ -1,0 +1,26 @@
+2022-05-20 17:05:638 INFO  HomePage :30 - getting username text [[FirefoxDriver: firefox on WINDOWS (a31b392a-4de9-443f-ab19-b4de9bd342ad)] -> xpath: //input[@id='user-name']]
+2022-05-20 17:05:754 INFO  HomePage :35 - getting password text [[FirefoxDriver: firefox on WINDOWS (a31b392a-4de9-443f-ab19-b4de9bd342ad)] -> xpath: //input[@id='password']]
+2022-05-20 17:05:231 INFO  HomePage :39 - Clicking on login Proxy element for: DefaultElementLocator 'By.xpath: //input[@name='login-button']'
+2022-05-20 17:05:493 INFO  ProductPage :53 - Clicking on cheapest product Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='add-to-cart-sauce-labs-onesie']'
+2022-05-20 17:05:740 INFO  ProductPage :57 - Clicking on most expensive product Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='add-to-cart-sauce-labs-fleece-jacket']'
+2022-05-20 17:05:990 INFO  ProductPage :62 - Clicking on shopping cart [[FirefoxDriver: firefox on WINDOWS (a31b392a-4de9-443f-ab19-b4de9bd342ad)] -> xpath: //a[@class='shopping_cart_link']]
+2022-05-20 17:05:250 INFO  HomePage :22 - Clicking on Checkout Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='checkout']'
+2022-05-20 17:05:309 INFO  HomePage :31 - getting firstname text [[FirefoxDriver: firefox on WINDOWS (a31b392a-4de9-443f-ab19-b4de9bd342ad)] -> xpath: //input[@id='first-name']]
+2022-05-20 17:05:357 INFO  HomePage :35 - getting lastname text [[FirefoxDriver: firefox on WINDOWS (a31b392a-4de9-443f-ab19-b4de9bd342ad)] -> xpath: //input[@id='last-name']]
+2022-05-20 17:05:414 INFO  HomePage :39 - getting zipcode text [[FirefoxDriver: firefox on WINDOWS (a31b392a-4de9-443f-ab19-b4de9bd342ad)] -> xpath: //input[@id='postal-code']]
+2022-05-20 17:05:676 INFO  HomePage :43 - Clicking on continue Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='continue']'
+2022-05-20 17:05:934 INFO  HomePage :26 - Clicking on finish button Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='finish']'
+2022-05-20 17:05:948 INFO  HomePage :29 - getting Thank you for your order text  [[FirefoxDriver: firefox on WINDOWS (a31b392a-4de9-443f-ab19-b4de9bd342ad)] -> xpath: //h2[contains(text(),'THANK YOU FOR YOUR ORDER')]]
+2022-05-20 17:05:55 INFO  HomePage :30 - getting username text [[FirefoxDriver: firefox on WINDOWS (3d5f1238-e3f1-42f5-82be-42b75788bd84)] -> xpath: //input[@id='user-name']]
+2022-05-20 17:05:171 INFO  HomePage :35 - getting password text [[FirefoxDriver: firefox on WINDOWS (3d5f1238-e3f1-42f5-82be-42b75788bd84)] -> xpath: //input[@id='password']]
+2022-05-20 17:05:560 INFO  HomePage :39 - Clicking on login Proxy element for: DefaultElementLocator 'By.xpath: //input[@name='login-button']'
+2022-05-20 17:05:831 INFO  ProductPage :53 - Clicking on cheapest product Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='add-to-cart-sauce-labs-onesie']'
+2022-05-20 17:05:96 INFO  ProductPage :57 - Clicking on most expensive product Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='add-to-cart-sauce-labs-fleece-jacket']'
+2022-05-20 17:05:348 INFO  ProductPage :62 - Clicking on shopping cart [[FirefoxDriver: firefox on WINDOWS (3d5f1238-e3f1-42f5-82be-42b75788bd84)] -> xpath: //a[@class='shopping_cart_link']]
+2022-05-20 17:05:609 INFO  HomePage :22 - Clicking on Checkout Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='checkout']'
+2022-05-20 17:05:676 INFO  HomePage :31 - getting firstname text [[FirefoxDriver: firefox on WINDOWS (3d5f1238-e3f1-42f5-82be-42b75788bd84)] -> xpath: //input[@id='first-name']]
+2022-05-20 17:05:717 INFO  HomePage :35 - getting lastname text [[FirefoxDriver: firefox on WINDOWS (3d5f1238-e3f1-42f5-82be-42b75788bd84)] -> xpath: //input[@id='last-name']]
+2022-05-20 17:05:775 INFO  HomePage :39 - getting zipcode text [[FirefoxDriver: firefox on WINDOWS (3d5f1238-e3f1-42f5-82be-42b75788bd84)] -> xpath: //input[@id='postal-code']]
+2022-05-20 17:05:42 INFO  HomePage :43 - Clicking on continue Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='continue']'
+2022-05-20 17:05:298 INFO  HomePage :26 - Clicking on finish button Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='finish']'
+2022-05-20 17:05:314 INFO  HomePage :29 - getting Thank you for your order text  [[FirefoxDriver: firefox on WINDOWS (3d5f1238-e3f1-42f5-82be-42b75788bd84)] -> xpath: //h2[contains(text(),'THANK YOU FOR YOUR ORDER')]]
